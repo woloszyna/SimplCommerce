@@ -1,0 +1,1 @@
+katalon -noSplash  -runMode=console -projectPath="\Users\albert.woloszyn\Katalon Studio\SimplCommerce\SimplCommerce.prj" -retry=0 -testSuitePath="Test Suites/Retail/AllPetesTests_20200227_201759" -executionProfile="default" -browserType="Chrome"
